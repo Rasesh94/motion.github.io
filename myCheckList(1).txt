@@ -1,0 +1,35 @@
+#######################################
+########### WAD CHECK LIST ############
+#######################################
+
+### ithelp@shu.ac.uk ###
+
+
+#######################################
+### My URL on homepages ###
+homepages.shu.ac.uk/~<yourid>/
+#######################################
+
+
+#######################################
+### Set up for External ###
+### (for set up see: https://students.shu.ac.uk/shuspacecontent/it/registering-your-student-website-external-access)
+externalSetUp=<needsSettingUp>
+#######################################
+
+
+#######################################
+### FTP Details ###
+ftpUsername = <yourid>
+ftpPassword = <yourStandardUniversityPassword>
+#######################################
+
+
+#######################################
+### MySQL Details ###
+### (for set up see: https://dbutils.shu.ac.uk/mysqlutility)
+mySQLSetUp=false
+mySQLUsername = <needsSettingUp>
+mySQLPassword = <needsSettingUp>
+mySQLURL= http://homepages.shu.ac.uk/mysql
+#######################################
